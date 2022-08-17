@@ -81,6 +81,9 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 ➾ /disconnect  - <code>disconnect from a chat</code>
 ➾ /connections - <code>list all your connections</code>"""
     
+    MUSIC_TXT = """𝙷𝙴𝚈 𝙼𝙰𝙽!
+𝙷𝙴𝚁𝙴 𝙸𝚂 𝚈𝙾𝚄 𝙲𝙰𝙽 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝚄𝚂𝙸𝙲 | 𝚅𝙸𝙳𝙴𝙾 𝙱𝚈 𝚃𝙷𝙴 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 /song 𝙰𝙽𝙳 /video"""
+    
     CORONA_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖢𝗈𝗏𝗂𝖽
 𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚍𝚊𝚒𝚕𝚢 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚌𝚘𝚟𝚒𝚍 
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
