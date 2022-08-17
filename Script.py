@@ -67,14 +67,6 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db."""
     
-    TELE_TXT = """<b>▫️HELP: Telegraph▪️</b>
-Do as you wish with telegra.ph module!
-</b>USAGE:</b>
-🤧 /telegraph - Send me Picture or Vide Under (5MB)
-<b>NOTE:</b>
-• This Command Is Available in goups and pms
-• This Command Can be used by everyone"""
-    
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
